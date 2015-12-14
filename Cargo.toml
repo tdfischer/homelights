@@ -1,0 +1,9 @@
+[package]
+name = "homelights"
+version = "0.1.0"
+authors = ["Torrie Fischer <tdfischer@hackerbots.net>"]
+
+[dependencies]
+hueclient = '*'
+iron = '*'
+time = '*'
